@@ -780,7 +780,7 @@ section.session-feedback {
   display: flex;
   gap: 20px;
   margin-top: 3rem;
-  overflow: hidden; 
+  
 }
 
 .depoimentos-container:active {
