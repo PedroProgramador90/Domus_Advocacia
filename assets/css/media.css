@@ -1,0 +1,908 @@
+/* Media Queries */
+
+@media screen and (max-width:1517px) {
+    .img-whatsApp img {
+        bottom: 20px;
+        right: 20px;
+    
+    }
+    
+}
+
+@media screen and (max-width:1376px) {
+    .item-img img {
+        width: 320px;
+        height:320px;
+     }
+
+     .part-buld {
+        width:450px;
+        height:642px;
+       
+    }
+
+    .info-contact p {
+       max-width:350px;  
+    }
+
+}
+
+@media screen and (max-width:1205px) {
+    .right-banner {
+        max-width:510px;
+    }
+
+    .emphasis-box {
+      right:320px;
+    }
+}
+
+@media screen and (max-width:1187px) {
+     .item-img img {
+        width: 280px;
+        height:280px;
+     }
+
+     .part-buld {
+        width:380px;
+        height:567px;
+       
+    }
+
+    .part-buld h2 {
+       font-size: 4rem;
+       
+    }
+
+     .part-buld p {
+        font-size: 2rem;
+       
+      }
+}
+
+@media screen and (max-width:1183px) {
+    .text-card p {
+     font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width:1073px) {
+   footer .flex-fill {
+    justify-content: space-around;
+    flex-wrap: wrap;
+   }
+
+}
+
+@media screen and (max-width:1165px) {
+    nav.nav-desktop ul li {
+      padding: 0 8px;
+    }
+}
+
+
+@media screen and (max-width:1124px) {
+   .img-prof img {
+    width:250px;
+    height:400px;
+   
+   }
+}
+
+@media screen and (max-width:1117px) {
+     .right-banner {
+        max-width:450px;
+    }
+
+    .emphasis-box {
+      right:215px;
+      bottom:20px;
+    }
+
+}
+
+
+@media screen and (max-width:1097px) {
+   
+    nav.nav-desktop ul {
+        display:none;
+    }
+
+    .button-menu {
+        display:none;
+    }
+
+    .list-mobile {
+        display:block;
+    }
+
+    .menu-mobile {
+        display:block;
+    }
+
+    .close-btn {
+        display:block;
+    }
+}
+
+
+
+@media screen and (max-width:1032px){
+    .text-about p {
+        font-size: 1rem;
+        max-width:450px;
+    }
+
+    .text-desk p {
+        font-size: 0.9rem;
+        max-width:300px;
+    }
+}
+
+
+@media screen and (max-width:1050px) {
+   .title-main h2 {
+     font-size:2.5rem;
+     max-width:450px;
+    }
+    .text-main p {
+        font-size: 1rem;
+        max-width:450px;
+    }
+
+      .right-banner {
+        max-width:450px;
+    }
+
+    .emphasis-box {
+      right:218px;
+      bottom:8px;
+    }
+
+    button.btn-two {
+        padding:15px 10px;
+    }
+
+    button.btn-two i {
+       font-size: 1rem;
+    }
+
+    button.btn-two a {
+        font-size:0.8rem;
+    }
+
+    button.btn-tree {
+         padding:15px 10px;
+    }
+
+    button.btn-tree a {
+      
+        font-size: 0.8rem;
+    }
+
+    button.btn-tree i {
+       font-size:1rem;
+    }
+
+
+}
+
+@media screen and (max-width:987px){
+   .item-img img {
+        width: 230px;
+        height:230px;
+     }
+
+     .part-buld {
+        width:300px;
+        height:463px;
+       
+    }
+
+     .part-buld h2 {
+       font-size: 3rem;
+       
+    }
+
+     .part-buld p {
+        font-size: 1.5rem;
+       
+      }
+}
+
+@media screen and (max-width:981px){
+    section.session-one .flex-fill {
+       flex-wrap: wrap;
+    }
+
+    .title-about h2 {
+          font-size: 2.4rem;
+    }
+}
+
+
+@media screen and (max-width:927px) {
+    .title-main h2 {
+        max-width:400px;
+        
+    }
+    .text-main p {
+      max-width:380px;
+    
+    }
+
+}
+
+@media screen and (max-width:923px) {
+    .title-box h2 {
+        font-size: 1.9rem;
+       
+    }
+
+    .paragraf-box p {
+       font-size: 0.9rem;
+       
+    }
+
+}
+
+@media screen and (max-width:887px) {
+   main .flex-fill {
+      flex-direction: column;
+    }
+
+    .left-desk {
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 2rem;
+    }
+
+    .title-main h2 {
+        font-size:3rem;
+        max-width:600px;
+    }
+
+    .text-main p {
+     font-size: 1rem;
+     max-width:600px;
+    }
+
+     button.btn-two {
+        padding:15px 30px;
+    }
+
+    button.btn-two a {
+        font-size:1rem;
+    }
+
+    button.btn-two i {
+       font-size: 1.2rem;
+    }
+
+    
+    button.btn-tree {
+         padding:15px 30px;
+    }
+
+    button.btn-tree a {
+       font-size: 1rem;
+       
+    }
+
+    button.btn-tree i {
+       font-size:1.2rem;
+    }
+
+     .right-banner {
+        max-width:558px;
+    }
+
+    .emphasis-box {
+       top:48%;
+       right:55%;
+       transform: translateY(400%);
+    }
+
+}
+
+@media screen and (max-width:854px) {
+    section.session-two .flex-fill {
+       flex-wrap: wrap;
+     }
+
+     .title-about h2 {
+      font-size: 2.8rem;
+      text-align: center;
+      margin: 20px auto;
+    
+    }
+
+    .text-about p {
+        text-align: center;
+        margin: 0 auto;
+        max-width:520px;
+     }
+
+   .group-desk {
+       justify-content: center;
+   }
+
+   .info-about {
+    margin-bottom: 2rem;
+   }
+
+}
+
+@media screen and (max-width:846px) {
+
+    .grid-imagens {
+       flex-wrap: wrap;
+    }
+
+    .dimess-grop .flex-fill{
+         flex-wrap: wrap;
+    }
+
+    .part-buld {
+        width:400px;
+        height:585px;
+       
+    }
+
+    .part-buld h2 {
+        font-size: 4.3rem;
+      
+    }
+
+    .part-buld p {
+       font-size: 2.2rem;
+       line-height: 44px;
+        
+    }
+
+    .title-contact h2 {
+        font-size:2.4rem;
+    }
+  
+    .title-contact p {
+        font-size: 1rem;
+        max-width: 500px;
+    }
+}
+
+@media screen and (max-width:810px) {
+    .img-prof img {
+        width:230px;
+        height:380px;
+    }
+}
+
+@media screen and (max-width:787px) {
+    section.session-tree .flex-fill {
+       flex-direction: column;
+    }
+
+    .img-prof {
+        text-align:center;
+    }
+
+    .center-tree {
+        margin-bottom: 2rem;
+    }
+
+    .text-tree p{
+      max-width:400px;
+    }
+
+    
+
+}
+
+@media screen and (max-width:726px) {
+    .logo-footer {
+       justify-content: center;
+    }
+
+    .features-text p {
+        text-align: center;
+       margin: 20px auto;
+    }
+
+    .modal-drop {
+       justify-content: center;
+    }
+
+    .footer-contact {
+        margin-top: 1.8rem;
+    }
+
+    .map-loc {
+        margin-top: 1.5rem;
+    }
+
+    .title-footerContac {
+        text-align:center;
+    }
+
+    .text-footerContact {
+        text-align: center;
+       justify-content: center;
+    }
+
+    .title-map h2 {
+        text-align:center;
+    }
+}
+
+@media screen and (max-width:674px) {
+ .depoimentos-container .card {
+    padding:20px;
+  }
+}
+
+@media screen and (max-width:644px) {
+     .title-main h2 {
+        font-size:2.3rem;
+        max-width:488px;
+    }
+
+    .title-one h2 {
+        font-size: 2.3em;
+    }
+
+    .text-main p {
+     font-size: 1rem;
+     max-width:488px;
+    }
+
+     .title-about h2 {
+      font-size: 2.4rem;
+    
+    }
+
+    .title-tree h2 {
+     font-size: 2.4rem;
+    }
+
+    .title-feedback h2 {
+      font-size: 2.4rem;
+      max-width:400px;
+      margin:20px auto;
+   }
+
+
+}
+
+@media screen and (max-width:581px) {
+    .right-banner {
+        max-width: 430px;
+    }
+
+    .emphasis-box {
+       top:48%;
+       right:43%;
+       transform: translateY(300%);
+    }
+
+    .session-galery .dimess-grop .flex-fill {
+         flex-direction:column;
+    }
+
+    .item-img img {
+        width: 400px;
+        height:350px;
+    }
+}
+
+@media screen and (max-width:515px) {
+    button.btn-two {
+        padding:15px 20px;
+      
+    }
+
+
+    button.btn-two i {
+        color:var(--color-two);
+        font-size: 1rem;
+    }
+
+    button.btn-two a {
+    
+        font-size:0.8rem;
+    }
+
+    button.btn-tree {
+        gap: 0.5rem;
+        padding:15px 20px;
+    
+    }
+
+    button.btn-tree i {
+        font-size:1rem;
+    }
+}
+
+@media screen and (max-width:430px) {
+    .emphasis-box {
+        right:155px;
+        bottom:10px;
+    }
+    .box-position   {
+        width:400px;
+    }
+
+    .text-term p {
+      font-size: 0.8rem;
+    }
+
+    .info-contact p {
+      font-size: 0.8rem;
+    }
+
+     .depoimentos-container {
+     padding: 0 2%;
+    }
+
+}
+
+@media screen and (max-width:414px) {
+    .title-main h2 {
+        font-size:2rem;
+        max-width:400px;
+   }
+
+    .text-main p {
+      font-size: 0.9rem;
+      max-width:380px;
+    }
+
+    .parts-button {
+      flex-direction: column;
+    }
+
+    .right-banner img {
+       width:98%;
+    }
+
+      .title-one h2 {
+      font-size: 2rem;
+     }
+
+     .title-about h2 {
+      font-size: 2rem;
+    }
+
+    .text-about p {
+      font-size: 0.9rem;
+    }
+
+     .title-tree h2 {
+     font-size: 2rem;
+   }
+
+   .text-tree p{
+      font-size: 0.9rem;
+    }
+     .emphasis-box {
+        right:138px;
+        bottom:0px;
+        top:370px;
+    }
+
+    .depoimentos-container {
+     padding: 0 2%;
+    }
+
+    .depoimentos-container .card {
+      min-width: 290px;
+
+    }
+
+     .title-feedback h2 {
+       font-size: 2rem;
+       max-width:300px;
+    }
+
+     .title-contact h2 {
+     font-size:2rem;
+     max-width:350px;
+     margin: 0 auto;
+   }
+
+   .title-contact p { 
+        font-size: 0.9rem;
+        max-width: 380px;
+   }
+}
+
+@media screen and (max-width:390px) {
+    .drop-prog {
+        width:320px;
+       
+   }
+
+   .drop-prog h3 {
+     font-size: 1rem;
+   }
+
+   .title-main h2 {
+        font-size:2rem;
+        max-width:350px;
+   }
+
+   .text-main p {
+      font-size: 0.8rem;
+      max-width:300px;
+    }
+
+
+   .parts-button {
+      flex-direction: column;
+    }
+
+    .emphasis-box {
+        right:115px;
+        bottom:0px;
+        top:370px;
+    }
+
+    .right-banner {
+      text-align: center;
+    }
+
+     .title-one h2 {
+      font-size: 2rem;
+     }
+
+     .title-about h2 {
+      font-size: 2rem;
+    }
+
+    .text-about p {
+      font-size: 0.8rem;
+    }
+
+    .title-box h2 {
+        font-size: 1.7rem;
+    }
+
+    .title-tree h2 {
+     font-size: 2rem;
+   }
+
+   .text-tree p{
+      font-size: 0.8rem;
+    }
+
+    .paragraf-box p {
+      font-size: 0.8rem;
+   }
+
+   .number-borde {
+    width:35px;
+    height:35px;
+   
+   }
+
+    .number-borde  p {
+      font-size: 1rem;
+    
+    }
+   .text-desk p {
+     font-size: 0.8rem;
+    }
+
+   .item-img img {
+        width: 350px;
+   }  
+
+   .part-buld {
+        width:350px;
+   }
+
+   .part-buld h2 {
+      font-size: 3.5rem;
+    }
+
+    .part-buld p {
+      font-size:1.8rem;
+    }
+
+    .title-feedback h2 {
+       font-size: 2rem;
+       max-width:300px;
+    }
+  
+
+    .title-contact h2 {
+     font-size:2rem;
+     max-width:350px;
+     margin: 0 auto;
+   }
+
+   .title-contact p { 
+        font-size: 0.8rem;
+        max-width: 300px;
+   }
+
+   .features-text p {
+        font-size: 0.8rem;
+        max-width: 300px;
+        margin: 20px auto;
+   }
+
+   .links-space i {
+    font-size: 1rem;
+  }
+
+   #id-contact {
+     max-width:280px;
+   }
+
+    .text-term p {
+      font-size: 0.7rem;
+    }
+   
+
+}
+    
+@media screen and (max-width:375px) {
+    .drop-prog {
+        width:320px;
+       
+   }
+
+   .drop-prog h3 {
+     font-size: 1rem;
+   }
+
+   .title-main h2 {
+        font-size:2rem;
+        max-width:350px;
+   }
+
+   .text-main p {
+      font-size: 0.8rem;
+      max-width:300px;
+    }
+
+
+   .parts-button {
+      flex-direction: column;
+    }
+
+    .emphasis-box {
+        right:100px;
+        bottom:0px;
+        top:370px;
+    }
+
+    .right-banner {
+      text-align: center;
+    }
+
+     .title-one h2 {
+      font-size: 2rem;
+     }
+
+     .title-about h2 {
+      font-size: 2rem;
+    }
+
+    .text-about p {
+      font-size: 0.8rem;
+    }
+
+    .title-box h2 {
+        font-size: 1.7rem;
+    }
+
+    .title-tree h2 {
+     font-size: 2rem;
+   }
+
+   .text-tree p{
+      font-size: 0.8rem;
+    }
+
+    .paragraf-box p {
+      font-size: 0.8rem;
+   }
+
+   .number-borde {
+    width:35px;
+    height:35px;
+   
+}
+
+    .number-borde  p {
+    
+    font-size: 1rem;
+    
+    }
+   .text-desk p {
+     font-size: 0.8rem;
+    }
+
+   .item-img img {
+        width: 350px;
+   }  
+
+   .part-buld {
+        width:350px;
+   }
+
+   .part-buld h2 {
+      font-size: 3.5rem;
+    }
+
+    .part-buld p {
+      font-size:1.8rem;
+    }
+
+    .title-feedback h2 {
+       font-size: 2rem;
+       max-width:300px;
+    }
+  
+
+    .title-contact h2 {
+     font-size:2rem;
+     max-width:350px;
+     margin: 0 auto;
+   }
+
+   .title-contact p { 
+        font-size: 0.8rem;
+        max-width: 300px;
+   }
+
+   .features-text p {
+        font-size: 0.8rem;
+        max-width: 300px;
+        margin: 20px auto;
+   }
+
+   .links-space i {
+    font-size: 1rem;
+  }
+
+   #id-contact {
+     max-width:280px;
+   }
+
+    .text-term p {
+      font-size: 0.7rem;
+    }
+   
+
+     
+
+}
+
+@media screen and (max-width:360px) {
+
+    .title-main h2 {
+        font-size:1.8rem;
+        max-width:450px;
+    }
+
+    .emphasis-box {
+        right:85px;
+        top:350px;
+    }
+
+      .title-one h2 {
+      font-size: 1.8rem;
+     }
+
+     .title-about h2 {
+      font-size: 1.8rem;
+    }
+
+}
+
+/*****/

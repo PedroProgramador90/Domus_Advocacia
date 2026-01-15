@@ -1,0 +1,12 @@
+/* Classes especificas */
+.container-bg  {
+    width: 100%;
+    max-width:1400px;
+    margin:0 auto;
+    padding:0 2%;
+}
+
+.flex-fill {
+    display:flex;
+}
+/*****/
