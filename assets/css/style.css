@@ -780,6 +780,10 @@ section.session-feedback {
   display: flex;
   gap: 20px;
   margin-top: 3rem;
+     overflow-x: auto;
+  overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+  touch-action: pan-x;
   
 }
 
